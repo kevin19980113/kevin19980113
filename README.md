@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Hyunho Lee (Known as Kevin Lee)</h1>
-<h3 align="center">A Developer who codes to change world better than yesterday!</h3>
+<h1 align="left">Hi 👋, I'm Hyunho Lee (Known as Kevin Lee)</h1>
+<h3 align="left">A Developer who codes to change world better than yesterday!</h3>
 
 - 🌱 I’m currently learning **Advanced React, TypeScript and Next.js**
 
