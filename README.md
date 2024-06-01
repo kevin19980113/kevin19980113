@@ -22,7 +22,7 @@
  ```javascript
 const WhoAmI = {
   name : "HYUNHO LEE(Known as Kevin)",
-  hobbiese : ["Watching Baseball Game", "Taking a walk", "Playing Badminton", "Netflix"],
+  hobbies : ["Watching Baseball Game", "Taking a walk", "Playing Badminton", "Netflix"],
   favFood : "Sushi...!!!!!!",
   askMeAbout: ["web dev", "tech", "baseball"],
   currentFocus: "Learning TypeScript and Next js(Server Side Rendering)",
