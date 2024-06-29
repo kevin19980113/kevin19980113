@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Hyunho Lee (Known as Kevin Lee)</h1>
-<h3 align="left">A Developer who codes to change world better than yesterday!</h3>
+<h3 align="left">I am a front-end developer enjoying solving problems from various challenges</h3>
 
-- 🌱 I’m currently learning **Advanced React, TypeScript and Next.js**
-
-- 📫 How to reach me **jeny95kr@gmail.com**
+- 🌱 I’m currently expanding my expertise into backend development.
 
 ## :Connect with me:
 <p align="left">
 <a href="https://instagram.com/hyunho4259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hyunho4259" height="30" width="40" /></a>
+<a href="https://instagram.com/hyunho4259" target="blank"><img align="center" src="https://www.svgrepo.com/download/521128/email-1.svg" alt="hyunho4259" height="30" width="40" /></a>	
+<a href="https://www.linkedin.com/in/Hyunho-lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hyunho4259" height="30" width="40" /></a>
 </p>
 
 ## Programming Languages
