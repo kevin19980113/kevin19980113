@@ -1,10 +1,11 @@
 <h1 align="left">Hi 👋, I'm Hyunho Lee (Known as Kevin Lee)</h1>
 <h3 align="left">I am a front-end developer enjoying solving problems from various challenges</h3>
-<h5 align="left>🌱 I’m currently expanding my expertise into backend development.</h5>
+
+<p align="left">🌱 I’m currently expanding my expertise into backend development.</p>
 
 - My portfoilio: ...
 
-## :Connect with me:
+## Connect with me:
 <p align="left">
 <a href="https://instagram.com/hyunho4259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="30" /></a>
 <a href="https://instagram.com/hyunho4259" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_640.png" alt="email" height="30" width="30" /></a>	
@@ -25,10 +26,10 @@
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 ## Education 🎓
-<h3 align="left">2017-2023</h3>
-🧬 Bio Medical Engineering(Bachelor's degree)
-🖥️ Computer and Electronic System Engineering(Minor)
-Hankuk University of Foreign Studies
+<h4 align="left">2017-2023</h3>
+<p align="left">🧬 Bio Medical Engineering(Bachelor's degree)</p>
+<p align="left">🖥️ Computer and Electronic System Engineering(Minor)</p>
+<p align="left">Hankuk University of Foreign Studies</p>
 
  ## Who am I?
  ```typescript
