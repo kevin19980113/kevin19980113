@@ -3,6 +3,7 @@
 
 <p align="left">🌱 I’m currently expanding my expertise into backend development.</p>
 
+- My Email: jeny95kr@gmail.com
 - My portfoilio: ...
 
 ## Connect with me:
