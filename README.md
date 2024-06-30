@@ -29,7 +29,7 @@
 <h4 align="left">2017-2023</h3>
 <p align="left">🧬 Bio Medical Engineering(Bachelor's degree)</p>
 <p align="left">🖥️ Computer and Electronic System Engineering(Minor)</p>
-<p align="left">Hankuk University of Foreign Studies</p>
+<p align="left" italic>Hankuk University of Foreign Studies</p>
 
  ## Who am I?
  ```typescript
