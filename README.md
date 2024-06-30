@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Hyunho Lee (Known as Kevin Lee)</h1>
 <h3 align="left">I am a front-end developer enjoying solving problems from various challenges</h3>
-🌱 I’m currently expanding my expertise into backend development.
+<h5 align="left>🌱 I’m currently expanding my expertise into backend development.</h5>
 
 - My portfoilio: ...
 
@@ -43,7 +43,7 @@ const WhoAmI = {
   favFood: Array(5).fill("Sushi"),
   askMeAbout: ["web dev", "tech", "baseball"],
   currentFocus: "Expanding expertise into Backend",
-}as const;
+} as const;
 
 
 const getWhereAmI = (): string => "Toronto, Canada"; // From South Korea
