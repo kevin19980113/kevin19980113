@@ -8,7 +8,6 @@
 ## Connect with me:
 <p align="left">
 <a href="https://instagram.com/hyunho4259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/Hyunho-lee" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_640.png" alt="email" height="30" width="30" /></a>	
 <a href="https://www.linkedin.com/in/Hyunho-lee" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="linkedin" height="30" width="30" /></a>
 </p>
 
