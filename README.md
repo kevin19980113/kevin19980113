@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋, I'm Hyunho Lee (Known as Kevin Lee)</h1>
 <h3 align="left">I am a front-end developer enjoying solving problems from various challenges</h3>
+🌱 I’m currently expanding my expertise into backend development.
 
-- 🌱 I’m currently expanding my expertise into backend development.
+- My portfoilio: ...
 
 ## :Connect with me:
 <p align="left">
@@ -10,7 +11,7 @@
 <a href="https://www.linkedin.com/in/Hyunho-lee" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="linkedin" height="30" width="30" /></a>
 </p>
 
-## Programming Languages
+## Tech Stack 💻
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -23,24 +24,32 @@
 	<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-## :computer: Technologies I Love
-* React js
-* Tailwind-css
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin19980113&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="kevin19980113" /></p>
+## Education 🎓
+<h3 align="left">2017-2023</h3>
+🧬 Bio Medical Engineering(Bachelor's degree)
+🖥️ Computer and Electronic System Engineering(Minor)
+Hankuk University of Foreign Studies
 
  ## Who am I?
- ```javascript
+ ```typescript
 const WhoAmI = {
-  name : "HYUNHO LEE(Known as Kevin)",
-  hobbies : ["Watching Baseball Game", "Taking a walk", "Playing Badminton", "Netflix"],
-  favFood : "Sushi...!!!!!!",
+  name: "HYUNHO LEE (Known as Kevin)",
+  hobbies: [
+    "Watching Baseball Game",
+    "Taking a walk",
+    "Playing Badminton",
+    "Netflix",
+  ],
+  favFood: Array(5).fill("Sushi"),
   askMeAbout: ["web dev", "tech", "baseball"],
-  currentFocus: "Learning TypeScript and Next js(Server Side Rendering)",
-}
-	
-const getWhereAmI = () => { return "Toronto Canada"; /* From South Korea */}
+  currentFocus: "Expanding expertise into Backend",
+}as const;
 
-const getMyPersonality = () => { return withMyFrieds ? "EXTROVERT" : "INTROVERT" }
+
+const getWhereAmI = (): string => "Toronto, Canada"; // From South Korea
+
+const getMyPersonality = (withMyFriends: boolean): string =>
+  withMyFriends ? "EXTROVERT" : "INTROVERT";
 	
  ```
 
