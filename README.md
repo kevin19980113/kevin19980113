@@ -4,7 +4,7 @@
 <p align="left">🌱 I’m currently expanding my expertise into backend development.</p>
 
 - My Email: jeny95kr@gmail.com
-- My portfoilio: currently working on,,,
+- My portfoilio: https://hyunholee-portfolio.vercel.app
 
 ## Connect with me:
 <p align="left">
