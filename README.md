@@ -48,7 +48,7 @@
 
 
 ## Education 🎓
-<h4 align="left">2017-2023</h3>
+<h4 align="left">2017-2024</h3>
 <p align="left">🧬 Bio Medical Engineering(Bachelor's degree)</p>
 <p align="left">🖥️ Computer and Electronic System Engineering(Minor)</p>
 <p align="left"><i>Hankuk University of Foreign Studies</i></p>
