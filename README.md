@@ -1,14 +1,23 @@
 <h1 align="left">Hi 👋, I'm Hyunho Lee </h1>
 <h3 align="left">I am a Web developer enjoying solving problems from various challenges</h3>
 
-- My Email: jeny95kr@gmail.com
-- My portfoilio: https://hyunholee-portfolio.vercel.app
+As a web developer,<br/>
+🚀 I'm passionate about expading my skills and knowledge.<br/> My journey in the world of code is fueled by an continuous curiosity and a drive to grow.<br/> 
+📚 I'm constantly look back my skillset and knowledge, embracing new technologies and methodologies to stay at the forefront of web development.
+
+🔥 Every project is a new challenge, an opportunity to push my boundaries and create innovative solutions.<br /> I thrive on problem-solving and am constantly seeking new challenges that allow me to grow both personally and professionally.
+
+🎯 I know it's challenging at times, but I believe that everyone is running their own race, in their own time. We are in our time zone.
+
 
 ## Connect with me:
 <p align="left">
 <a href="https://instagram.com/hyunho4259" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/Hyunho-lee" target="_blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="linkedin" height="40" width="40" /></a>
 </p>
+
+- My Email: jeny95kr@gmail.com
+- My portfoilio: https://hyunholee-portfolio.vercel.app
 
 #### 🔥Major Programming Languages:
 
