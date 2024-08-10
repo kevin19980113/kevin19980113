@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Hyunho Lee </h1>
-<h3 align="left">I am a Web developer enjoying solving problems from various challenges</h3>
+<h3 align="left">💻 I am a Web developer enjoying solving problems from various challenges</h3>
 
 As a web developer,<br/>
 🚀 I'm passionate about expading my skills and knowledge.<br/> My journey in the world of code is fueled by an continuous curiosity and a drive to grow.<br/> 
