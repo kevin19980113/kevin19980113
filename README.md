@@ -19,6 +19,9 @@ As a web developer,<br/>
 - My Email: jeny95kr@gmail.com
 - My portfoilio: https://hyunholee-portfolio.vercel.app
 
+
+## Skillset:
+
 #### 🔥Major Programming Languages:
 
   <div align="left">
