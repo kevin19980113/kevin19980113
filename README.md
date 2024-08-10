@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Hyunho Lee </h1>
+<h1 align="center">Hi 👋, I'm Hyunho Lee </h1>
 <h3 align="left">💻 I am a Web developer enjoying solving problems from various challenges</h3>
 
 As a web developer,<br/>
