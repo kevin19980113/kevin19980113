@@ -46,7 +46,7 @@ As a web developer,<br/>
 #### 🧵Database & Skills:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,postman" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,postman" />
   </div>
 
 <!-- Tools and Technologies -->
