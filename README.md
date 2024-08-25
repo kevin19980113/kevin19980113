@@ -9,11 +9,11 @@ I've worked as a software developer in South Korea 🇰🇷, mainly focusing on 
 At that time, I didn't have a clear goal of what I really wanted to achieve as a developer, and I was a passive developer who only did the work given by the company.
 After deeply considering what I truly wanted to do and trying to organize my complex thoughts, I came to Canada. 
 I developed a great interest in web development and have been continuously studying and self-improving, dreaming of one day opening my own service or business.
-As I shifted my main focus from software development centered on medical image 3D rendering to web development, you might feel that my career in this field is inconsistent or lacking. However, I would like to describe myself as:
+As I shifted my main focus from software development centered on medical image 3D rendering to web development, you might feel that my career in this field is inconsistent or lacking. <h4>However, I would like to describe myself as:</h4>
 
-<h3>🎯'Not just a passive developer who simply handles given tasks, but an active learner and creator who constantly seeks what I want to achieve from where I am, continuously self-improves, and expands my domain.'</h3>
+<h5>🎯'Not just a passive developer who simply handles given tasks, but an active learner and creator who constantly seeks what I want to achieve from where I am, continuously self-improves, and expands my domain.'</h5>
 
-<h3>🔥'A proactive developer who not only understands web development but also possesses deep knowledge of low-level programming like C and C++, as well as a profound mathematical understanding of 3D rendering.</h3>
+<h5>🔥'A proactive developer who not only understands web development but also possesses deep knowledge of low-level programming like C and C++, as well as a profound mathematical understanding of 3D rendering.</h5>
 
 <h4>I know it's challenging at times, but I believe that everyone is running their own race, in their own time. We are in our time zone.</h4>
 
