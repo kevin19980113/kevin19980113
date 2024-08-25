@@ -15,8 +15,9 @@ As I shifted my main focus from software development centered on medical image 3
 <h3>🎯'Not just a passive developer who simply handles given tasks, but an active learner and creator who constantly seeks what I want to achieve from where I am, continuously self-improves, and expands my domain.'</h3>
 
 <h3>🔥'A proactive developer who not only understands web development but also possesses deep knowledge of low-level programming like C and C++, as well as a profound mathematical understanding of 3D rendering.</h3>
+<br/>
 
-<h3>I know it's challenging at times, but I believe that everyone is running their own race, in their own time. We are in our time zone.</h3>
+<h4>⭐️I know it's challenging at times, but I believe that everyone is running their own race, in their own time. We are in our time zone.⭐️</h4>
 
 
 ## Connect with me:
