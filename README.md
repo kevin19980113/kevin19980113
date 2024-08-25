@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Hyunho Lee </h1>
-<h3 align="left">💻 I am a Web developer enjoying solving problems from various challenges</h3>
+<h3 align="left">💻 I am a developer who constantly fuels my passion for development day by day.</h3>
 
-As a web developer,<br/>
 🚀 I'm passionate about expading my skills and knowledge.<br/> My journey in the world of code is fueled by an continuous curiosity and a drive to grow.<br/> 
 📚 I'm constantly look back my skillset and knowledge, embracing new technologies and methodologies to stay at the forefront of web development.
+⚡️ Every project is a new challenge, an opportunity to push my boundaries and create innovative solutions.<br /> I thrive on problem-solving and am constantly seeking new challenges that allow me to grow both personally and professionally.
 
-🔥 Every project is a new challenge, an opportunity to push my boundaries and create innovative solutions.<br /> I thrive on problem-solving and am constantly seeking new challenges that allow me to grow both personally and professionally.
+I've worked as a software developer in South Korea 🇰🇷, mainly focusing on 3D medical image rendering.<br/> 
+At that time, I didn't have a clear goal of what I really wanted to achieve as a developer, and I was a passive developer who only did the work given by the company.
+After deeply considering what I truly wanted to do and trying to organize my complex thoughts, I came to Canada. 
+I developed a great interest in web development and have been continuously studying and self-improving, dreaming of one day opening my own service or business.
+As I shifted my main focus from software development centered on medical image 3D rendering to web development, you might feel that my career in this field is inconsistent or lacking. However, I would like to describe myself as:
 
-🎯 I know it's challenging at times, but I believe that everyone is running their own race, in their own time. We are in our time zone.
+🎯'Not just a passive developer who simply handles given tasks, but an active learner and creator who constantly seeks what I want to achieve from where I am, continuously self-improves, and expands my domain.'
+
+🔥'A proactive developer who not only understands web development but also possesses deep knowledge of low-level programming like C and C++, as well as a profound mathematical understanding of 3D rendering.
+
+<h4>I know it's challenging at times, but I believe that everyone is running their own race, in their own time. We are in our time zone.</h4>
 
 
 ## Connect with me:
