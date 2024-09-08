@@ -49,7 +49,7 @@ As I shifted my main focus from software development centered on medical image 3
 #### ⛓️Backend Skills:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,go" />
   </div>
 <!-- Databases -->
 
