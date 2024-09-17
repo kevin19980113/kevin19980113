@@ -5,6 +5,8 @@
 📚 I'm constantly look back my skillset and knowledge, embracing new technologies and methodologies to stay at the forefront of web development.<br/> 
 ⚡️ Every project is a new challenge, an opportunity to push my boundaries and create innovative solutions.<br /> I thrive on problem-solving and am constantly seeking new challenges that allow me to grow both personally and professionally.
 
+🎯 currently, learning Go Programming Language
+
 <h2 align="left">🎒My Story</h3>
 I've worked as a software developer in South Korea 🇰🇷, mainly focusing on 3D medical image rendering.<br/> 
 At that time, I didn't have a clear goal of what I really wanted to achieve as a developer, and I was a passive developer who only did the work given by the company.<br/>
