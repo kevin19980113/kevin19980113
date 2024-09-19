@@ -68,7 +68,7 @@ As I shifted my main focus from software development centered on medical image 3
   <div align="left">      
     <img src="https://skillicons.dev/icons?i=github,jest,vitest,npm" />
   </div>
-</div>
+
 
 
 ## Education 🎓
@@ -103,5 +103,5 @@ const getMyPersonality = (withMyFriends: boolean): string =>
 
 ## My Github Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin19980113&theme=highcontrast" alt="kevin19980113" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin19980113&show_icons=true&locale=en&layout=compact" alt="kevin19980113" /></p>
 
