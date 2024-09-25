@@ -103,4 +103,3 @@ const getMyPersonality = (withMyFriends: boolean): string =>
 
 ## My Github Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin19980113&theme=highcontrast" alt="kevin19980113" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin19980113&langs_count=5&theme=tokyonight" alt="kevin19980113" /></p>
